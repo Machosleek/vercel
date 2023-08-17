@@ -1,5 +1,11 @@
 # @vercel/frameworks
 
+## 1.7.0
+
+### Minor Changes
+
+- Add "supersedes" prop to Framework interface ([#10345](https://github.com/vercel/vercel/pull/10345))
+
 ## 1.6.0
 
 ### Minor Changes

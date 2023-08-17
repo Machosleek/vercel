@@ -1,5 +1,11 @@
 # @vercel/remix-builder
 
+## 1.10.2
+
+### Patch Changes
+
+- Only add workspace check flag for Yarn v1 ([#10364](https://github.com/vercel/vercel/pull/10364))
+
 ## 1.10.1
 
 ### Patch Changes

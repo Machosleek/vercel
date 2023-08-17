@@ -1,5 +1,14 @@
 # @vercel/fs-detectors
 
+## 4.1.4
+
+### Patch Changes
+
+- Add "supersedes" prop to Framework interface ([#10345](https://github.com/vercel/vercel/pull/10345))
+
+- Updated dependencies [[`ed806d8a6`](https://github.com/vercel/vercel/commit/ed806d8a6b560b173ba80b24cbfafaa6f179d8b1)]:
+  - @vercel/frameworks@1.7.0
+
 ## 4.1.3
 
 ### Patch Changes
